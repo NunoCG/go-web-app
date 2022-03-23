@@ -1,0 +1,6 @@
+version: "3.9"
+
+services:
+  go-web-app:
+    tty: true
+    entrypoint: sh
